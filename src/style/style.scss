@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  justify-content: space-around;
+}
+
+.item-name {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  width: 100%;
+}
+
+.item-value {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  width: 100%;
+}

@@ -1,3 +1,4 @@
+import "./style/style.scss";
 import { data } from "./data/data";
 import list from "./components/list";
 
